@@ -12,8 +12,13 @@ namespace DataTypes_IntegerType
         {
             sbyte sbyteMinVal = SByte.MinValue;
             sbyte sbyteMaxVal = SByte.MaxValue;
-            Console.WriteLine("Min Value = {0}  Max Value = {1}", sbyteMinVal, sbyteMaxVal);
-
+            int intMinVal=int.MinValue;
+            int intMaxVal=int.MaxValue;
+            long longMinVal=long.MinValue;
+            long longMaxVal=long.MaxValue;
+            Console.WriteLine("Min Value = {0}  Max Value = {1}\n", sbyteMinVal, sbyteMaxVal);
+            Console.WriteLine("Min Int Value = {0} Max Int Value = {1}\n",intMinVal, intMaxVal);
+            Console.WriteLine("Min Long Value = {0} Max Long Value = {1}\n",longMinVal, longMaxVal);
 
             Console.ReadKey();
 

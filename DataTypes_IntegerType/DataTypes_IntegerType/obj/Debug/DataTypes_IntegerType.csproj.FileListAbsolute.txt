@@ -4,3 +4,11 @@ D:\Visual Studio Codes\DataTypes_IntegerType\DataTypes_IntegerType\bin\Debug\Dat
 D:\Visual Studio Codes\DataTypes_IntegerType\DataTypes_IntegerType\obj\Debug\DataTypes_IntegerType.csprojResolveAssemblyReference.cache
 D:\Visual Studio Codes\DataTypes_IntegerType\DataTypes_IntegerType\obj\Debug\DataTypes_IntegerType.exe
 D:\Visual Studio Codes\DataTypes_IntegerType\DataTypes_IntegerType\obj\Debug\DataTypes_IntegerType.pdb
+D:\LocalRepository\CSharpCourseCodes\DataTypes_IntegerType\DataTypes_IntegerType\bin\Debug\DataTypes_IntegerType.exe.config
+D:\LocalRepository\CSharpCourseCodes\DataTypes_IntegerType\DataTypes_IntegerType\bin\Debug\DataTypes_IntegerType.exe
+D:\LocalRepository\CSharpCourseCodes\DataTypes_IntegerType\DataTypes_IntegerType\bin\Debug\DataTypes_IntegerType.pdb
+D:\LocalRepository\CSharpCourseCodes\DataTypes_IntegerType\DataTypes_IntegerType\obj\Debug\DataTypes_IntegerType.csproj.AssemblyReference.cache
+D:\LocalRepository\CSharpCourseCodes\DataTypes_IntegerType\DataTypes_IntegerType\obj\Debug\DataTypes_IntegerType.csproj.SuggestedBindingRedirects.cache
+D:\LocalRepository\CSharpCourseCodes\DataTypes_IntegerType\DataTypes_IntegerType\obj\Debug\DataTypes_IntegerType.csproj.CoreCompileInputs.cache
+D:\LocalRepository\CSharpCourseCodes\DataTypes_IntegerType\DataTypes_IntegerType\obj\Debug\DataTypes_IntegerType.exe
+D:\LocalRepository\CSharpCourseCodes\DataTypes_IntegerType\DataTypes_IntegerType\obj\Debug\DataTypes_IntegerType.pdb
